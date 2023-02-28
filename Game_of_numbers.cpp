@@ -1,9 +1,8 @@
 /*
                  A game of numbers created by: 
-				 Balkishan Padihar (PC21-IST-021) 
-				                 &&
-				 Subrat kumar Pradhan (PC21-IST-011)
-                 Bsc IST (Information Science & telecommuniction)
+				 Balkishan Padihar (2202061053) 
+				                 
+		BTech EEE				 
                  Under the guidnace of: Mr. Manoj Guru
                  Date stared:29/03/2022
                  Last modified: 09/04/2022
