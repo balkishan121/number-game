@@ -2,8 +2,7 @@
                  A game of numbers created by: 
 				 Balkishan Padihar (2202061053) 
 				                 
-		BTech EEE				 
-                 Under the guidnace of: Mr. Manoj Guru
+		 BTech EEE				 
                  Date stared:29/03/2022
                  Last modified: 09/04/2022
 */
