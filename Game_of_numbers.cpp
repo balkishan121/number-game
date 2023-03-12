@@ -1,7 +1,6 @@
 /*
                  A game of numbers created by: 
-				 Balkishan Padihar (2202061053) 
-				                 
+	         Balkishan Padihar (2202061053)		                 
 		 BTech EEE				 
                  Date stared:29/03/2022
                  Last modified: 09/04/2022
